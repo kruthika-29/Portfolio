@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio Website
+# Personal Portfolio Website
 
 A sleek, responsive personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. Showcases projects, skills, about section, and contact form — perfect for presenting your work to potential employers or clients.
 
@@ -29,6 +29,10 @@ A sleek, responsive personal portfolio website built using **HTML**, **CSS**, an
 
 ## 📸 Preview
 
-![Portfolio Screenshot](preview.png)  
+![Portfolio Screenshot](https://github.com/kruthika-29/Portfolio/blob/main/assets/portfolioop1.png) 
+
+![Portfolio Screenshot](https://github.com/kruthika-29/Portfolio/blob/main/assets/portfolioop2.png) 
+
+![Portfolio Screenshot](https://github.com/kruthika-29/Portfolio/blob/main/assets/portfolioop3.png) 
 
 
