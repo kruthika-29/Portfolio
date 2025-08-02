@@ -15,15 +15,15 @@ A sleek, responsive personal portfolio website built using **HTML**, **CSS**, an
 - ✅ Project showcase section with hover effects
 - ✅ Skills grid with icons
 - ✅ Interactive contact form
-- ✅ Scroll-based animations (optional)
+
 
 
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Semantic and accessible structure  
+- **HTML** – Semantic and accessible structure  
 - **CSS3** – Custom styling and responsive layout (Flexbox / Grid)  
-- **JavaScript** – DOM manipulation, animations, and form handling  
+- **JavaScript** – Animations, and form handling  
 
 
 
